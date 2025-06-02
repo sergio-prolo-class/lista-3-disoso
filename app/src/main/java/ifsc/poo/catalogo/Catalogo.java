@@ -1,4 +1,7 @@
 package ifsc.poo.catalogo;
 
-public class Catalogo {
+public class Produto {
+    private String nome;
+    private double preco;
+
 }

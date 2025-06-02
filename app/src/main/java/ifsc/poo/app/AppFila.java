@@ -14,7 +14,7 @@ public class AppFila {
         do {
             System.out.println("\n=== FILA DE ATENDIMENTO ===");
             System.out.println("1. Registrar nova solicitacao");
-            System.out.println("2. Atender próxima solicitacao");
+            System.out.println("2. Atender proxima solicitacao");
             System.out.println("3. Listar telefones registrados");
             System.out.println("4. Ver o proximo cliente");
             System.out.println("5. Listar idades atendidos");

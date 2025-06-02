@@ -1,4 +1,7 @@
 package ifsc.poo.catalogo;
 
-public class Filmes {
+public class Usuario {
+    private String username;
+    private String senha;
+
 }

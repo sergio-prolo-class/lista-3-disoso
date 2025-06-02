@@ -1,4 +1,4 @@
 package ifsc.poo;
 
-public class Clientes {
+public class Cliente {
 }

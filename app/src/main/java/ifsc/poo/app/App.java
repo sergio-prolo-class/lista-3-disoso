@@ -19,7 +19,7 @@ public class App {
             System.out.println("5. Listar por ano");
             System.out.println("6. Buscar por ano");
             System.out.println("0. Sair");
-            System.out.print("Opção: ");
+            System.out.print("Opcao desejada: ");
             
             int opcao = scanner.nextInt();
             scanner.nextLine(); 

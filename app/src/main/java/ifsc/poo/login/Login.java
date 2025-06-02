@@ -1,4 +1,7 @@
 package ifsc.poo.login;
 
-public class Login {
+public class Usuario {
+    private String username;
+    private String senha;
+
 }

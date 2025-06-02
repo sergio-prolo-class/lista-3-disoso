@@ -18,7 +18,7 @@ public class Filme {
         return titulo;
     }
 
-    public int getAnoLancamento() {
+    public int getAno() {
         return anoLancamento;
     }
 
